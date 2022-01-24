@@ -1,6 +1,6 @@
 # Job_search_web_scraper
 
-This program has been created to automate the process of searching for jobs related to software engineering within the given local are. In my case, it is 'Hatfield'. 
+This program has been created to automate the process of searching for jobs related to software engineering within the given local area. In my case, it is 'Hatfield'. 
 Thus all jobs displayed on the terminal will either be in hatfield(town) or within Hertfordshire(county). 
 
 The output as a result of running the program will be: 
